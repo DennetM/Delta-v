@@ -18,9 +18,8 @@
         Piercing: 1.2
         Asphyxiation: 1.35
   - type: Damageable
+    damageContainer: Biological
     damageModifierSet: Oni
-  - type: Body
-    prototype: Human
   - type: Fixtures
     fixtures: # TODO: This needs a second fixture just for mob collisions.
       fix1:
